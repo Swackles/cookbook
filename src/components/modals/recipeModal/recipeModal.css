@@ -1,0 +1,26 @@
+.recipe-modal {
+  margin: 0 5pt;
+  padding: 0px 5px;
+}
+
+.title-small {
+  text-align: center;
+}
+
+.ingredients-row {
+  padding: 50px 0 30px 0;
+}
+
+.image-large {
+  min-height: 240px !important;
+}
+
+.tutorial-text {
+  padding: 0, 5px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 16px;
+  text-align: justify;
+}

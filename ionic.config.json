@@ -1,0 +1,7 @@
+{
+  "name": "retseptide-kogumik",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
